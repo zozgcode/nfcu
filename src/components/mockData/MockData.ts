@@ -184,15 +184,15 @@ export const mockAccounts: Account[] = [
     transaction_history: [
       {
         transaction_id: 'TXN001',
-        dateTime: 'August 14, 2024, 10:15:00 am',
-        description: 'House for sale',
+        dateTime: 'August 14, 2021, 10:15:00 am',
+        description: 'Smart Pension',
         status: 'Success',
         amount_usd: 500000.0,
         account_no: '****5009'
       },
       {
         transaction_id: 'TXN002',
-        dateTime: 'April 20 2024, 1:04:02 pm',
+        dateTime: 'April 20 2021, 1:04:02 pm',
         description: 'Car Insurance',
         status: 'Success',
         amount_usd: 100000.0,
@@ -200,7 +200,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN003',
-        dateTime: 'November 17, 2023, 10:11:22 am',
+        dateTime: 'March 17, 2021, 10:11:22 am',
         description: 'Transfer from NICHOLAS DUKE',
         status: 'Success',
         amount_usd: 6500.0,
@@ -208,7 +208,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN004',
-        dateTime: 'September 2 2023, 7:08:32 am',
+        dateTime: 'January 2 2021, 7:08:32 am',
         description: 'Transfer from BRANDON PERKINS',
         status: 'Success',
         amount_usd: 8000.0,
@@ -216,7 +216,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN005',
-        dateTime: 'December 23 2022, 1:15:02 pm',
+        dateTime: 'December 23 2020, 1:15:02 pm',
         description: "Sinlair's Store - Trx",
         status: 'Success',
         amount_usd: 15000.0,
@@ -224,7 +224,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN006',
-        dateTime: 'May 23 2022, 8:15:02 pm',
+        dateTime: 'May 23 2020, 8:15:02 pm',
         description: 'Project Milestone Payment',
         status: 'Success',
         amount_usd: 17500.0,
@@ -232,7 +232,7 @@ export const mockAccounts: Account[] = [
       },
       {
         transaction_id: 'TXN007',
-        dateTime: 'March 15, 2022, 7:20:15 am',
+        dateTime: 'March 15, 2020, 7:20:15 am',
         description: 'Project Completion Bonus',
         status: 'Success',
         amount_usd: 3500.0,

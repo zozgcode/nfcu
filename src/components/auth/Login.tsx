@@ -39,11 +39,11 @@ export default function Login() {
     <div className="">
       <Header />
       <div className="h-screen bg-blue-100">
-        <div className="flex flex-col justify-center items-center pt-[30px]">
-          <div className="px-5 w-full mb-4">
+        <div className="px-5 flex flex-col justify-center items-center pt-[30px]">
+          <div className="w-full max-w-lg mb-4">
             <h1 className="border text-[#0f3d70] font-semibold text-xl">Welcome to Digital Banking</h1>
           </div>
-          <div className="w-full max-w-sm p-5 bg-gray-50 border border-gray-200 rounded-lg shadow-md">
+          <div className="w-full max-w-lg p-5 bg-gray-50 border border-gray-200 rounded-lg shadow-md">
             <div className="mb-6 flex gap-1 items-center">
               <FaLock className="text-xl text-[#0c0d0e]" />
               <h2 className="text-xl font-[500] text-[#0c0d0e]">Sign In</h2>
