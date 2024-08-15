@@ -6,8 +6,8 @@ import ProtectedRoute from "@/components/ProtectedRoute";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Michigan First Online Banking",
-  description: "Michigan First Online Banking",
+  title: "Mobile and Online Banking | Navy Federal Credit Union",
+  description: "Mobile and Online Banking | Navy Federal Credit Union",
 };
 
 export default function RootLayout({
